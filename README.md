@@ -1,0 +1,1 @@
+This is a TensorFlow based re-implementation of the paper: [__DeViSE: A Deep Visual-Semantic Embedding Model__](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41473.pdf)
